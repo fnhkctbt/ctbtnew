@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Slingforlimb.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -9006,7 +9006,8 @@
     "Slingforlimb.html": {
       "settings": {
         "title": "Sling for Paretic Upper Limb",
-        "order": 7
+        "order": 7,
+        "meta_descr": ""
       },
       "components": [
         {
