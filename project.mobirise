@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 195,
+    "uniqCompNum": 198,
     "versionPublish": "5.6.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -2025,7 +2025,7 @@
     "fetalactivitymonitor.html": {
       "settings": {
         "title": "Fetal Activity Monitor",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2857,7 +2857,7 @@
     "gaitquality.html": {
       "settings": {
         "title": "Gait Quality Diagnostics",
-        "order": 8,
+        "order": 7,
         "meta_descr": "gaitquality"
       },
       "components": [
@@ -3687,7 +3687,7 @@
     "headneckbrace.html": {
       "settings": {
         "title": "Head Neck Brace",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -4448,7 +4448,7 @@
     "luciebartosova.html": {
       "settings": {
         "title": "LB",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -5075,7 +5075,7 @@
     "helenalinhartova.html": {
       "settings": {
         "title": "HL",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -5702,7 +5702,7 @@
     "jirimosna.html": {
       "settings": {
         "title": "JM",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -6329,7 +6329,7 @@
     "barborazoubkova.html": {
       "settings": {
         "title": "BZ",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -6938,7 +6938,7 @@
     "tacrine.html": {
       "settings": {
         "title": "Tacrine",
-        "order": 9,
+        "order": 8,
         "meta_descr": ""
       },
       "components": [
@@ -8929,7 +8929,7 @@
     "Slingforlimb.html": {
       "settings": {
         "title": "Sling for Paretic Upper Limb",
-        "order": 12,
+        "order": 11,
         "meta_descr": ""
       },
       "components": [
@@ -9691,7 +9691,7 @@
     "rehabilitationpad.html": {
       "settings": {
         "title": "Rehabilitation Pad",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -10799,7 +10799,7 @@
     "disinfection.html": {
       "settings": {
         "title": "Disinfection",
-        "order": 10,
+        "order": 9,
         "meta_descr": ""
       },
       "components": [
@@ -10880,7 +10880,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Currently, the incidence of bacteria resistance to antimicrobial agents such as antibiotics, but also commonly used disinfectants, becomes an issue in the field of disinfection. In many cases, multidrug-resistant strains to both groups of anti-infectives compounds were described. This trend results from the long-term use of antibiotics and disinfectants, especially in hospitals where bacteria are constantly exposed to the selection pressure of antibiotics and thus the bacteria are able to develop resistance to antimicrobials due to evolutionary mechanism.<br><br>We have prepared completely new substances with a broad spectrum effect: high antimicrobial potential against bacteria (EN 13727 + A2), mycobacteria (EN 14348), fungi (EN 13624) and enveloped viruses (EN 14476 + A2). Substance is significantly effective even at very low concentration.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Currently, the incidence of bacteria resistance to antimicrobial agents such as antibiotics, but also commonly used disinfectants, becomes an issue in the field of disinfection. In many cases, multidrug-resistant strains to both groups of anti-infectives compounds were described. This trend results from the long-term use of antibiotics and disinfectants, especially in hospitals where bacteria are constantly exposed to the selection pressure of antibiotics and thus the bacteria are able to develop resistance to antimicrobials due to evolutionary mechanism.<br><br>We have prepared completely new substances with a broad spectrum effect: high antimicrobial potential against bacteria (EN 13727 + A2), mycobacteria (EN 14348), fungi (EN 13624) and enveloped viruses (EN 14476 + A2). Substance is significantly effective even at very low concentration.<br><br><b>Advantages\n</b><br><b>Effective at low concentration (0,06%):\n</b><br>• low production costs\n<br>• low allergy potential\n<br>• friendly to surfaces\n<br>• waste-water friendly\n<br>\n<br><b>Potential Applications\n</b><br>• healthcare\n<br>• agriculture\n<br>• food industry&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "twFong8AC7",
           "_anchor": "content5-3q",
           "_protectedParams": [],
@@ -10977,7 +10977,7 @@
           },
           "_name": "header14",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background7.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img src=\"@PROJECT_PATH@/assets/images/nvrh-bez-nzvu-19-816x816.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                        <b>About Company</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Advantages</b><br><b>Effective at low concentration (0,06%):</b><br>• low production costs<br>• low allergy potential<br>• friendly to surfaces<br>• waste-water friendly<br><br><b>Potential Applications</b><br>• healthcare<br>• agriculture<br>• food industry&nbsp;<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Read More</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background7.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img src=\"@PROJECT_PATH@/assets/images/nvrh-bez-nzvu-33-816x816.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                        <b>About Company</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Technology is owned by University Hospital Hradec Králové. Compounds were tested and certified according to EN standards. The development was supported by the Technology Agency of the Czech Republic within the programme for applied research, experimental development and Innovation GAMA 2 – Project TP01010034 – Centre for Transfer of Biomedical Technologies – PoC2.&nbsp;<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Read More</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "twFonggcop",
           "_anchor": "header14-3r",
           "_protectedParams": [],
@@ -12721,7 +12721,7 @@
     "DilationSystem.html": {
       "settings": {
         "title": "Dilator",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
