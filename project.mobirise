@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "MultipleMyeloma.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -15036,7 +15036,7 @@
         }
       ]
     },
-    "Brain Phantom.html": {
+    "BrainPhantom.html": {
       "settings": {
         "title": "Phantom",
         "order": 8
@@ -16099,7 +16099,7 @@
         }
       ]
     },
-    "page18.html": {
+    "MultipleMyeloma.html": {
       "settings": {
         "title": "Multiple Myeloma",
         "order": 9
